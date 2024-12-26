@@ -44,4 +44,3 @@ The primary objective of this project is to design and implement a robust Real-t
 - **Enhanced User Experience**:Razor views and a well-structured UI enable administrators to perform tasks intuitively.
 - **Future Scalability**:The system can be extended with additional features like user authentication, borrowing/return tracking, and analytics for broader functionality.
 
-This project provides a comprehensive overview of global population trends and insights, useful for further studies or policy-making related to demographic changes.
